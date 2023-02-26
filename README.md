@@ -2,7 +2,7 @@ Hi 👋 My name is Aldo
 =====================  
 I am a College student in final semester, major in Information Communication Technology, with business and law background, as well as more than 5 years IT solution consultation experience.  
 * 🌍  I'm based in Vancouver 
-*  ✉️  You can contact me at [aldoque0304@gmail.com](mailto:aldoque0304@gmail.com) 
+*  ✉️  You can contact me at [aldoque0304@hotmail.com](mailto:aldoque0304@hotmail.com) 
 *  🧠  I'm learning Full Stack Application, System Design, Development & Python Machine Learning Model
 
 ### Skills  
